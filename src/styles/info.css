@@ -1,0 +1,12 @@
+.info {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.info__icono {
+    width: clamp(10px, 3vw, 25px) ;
+    height: clamp(10px, 3vw, 25px);
+}
+.info p {
+    font-size: clamp(.5rem,1.3vw,1rem);
+}
