@@ -45,7 +45,7 @@
     justify-content: space-between;
     width: clamp(340px, 40vw, 500px);
     aspect-ratio: 2 / 1; /* Mantiene una proporción entre ancho y alto */
-    background-image: url("images/pattern-ticket.svg");
+    background-image: url("/images/pattern-ticket.svg");
     background-size: 
     contain;
     background-repeat: no-repeat;

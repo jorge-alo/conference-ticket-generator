@@ -8,14 +8,14 @@ body, html {
   min-height: 100dvh;
 
   background-image:
-  url("images/pattern-circle.svg"),
-    url("images/pattern-lines.svg"),
-    url("images/pattern-squiggly-line-bottom.svg"),
-    url("images/pattern-squiggly-line-top.svg"),
+  url("/images/pattern-circle.svg"),
+    url("/images/pattern-lines.svg"),
+    url("/images/pattern-squiggly-line-bottom.svg"),
+    url("/images/pattern-squiggly-line-top.svg"),
     image-set(
-      url('images/background-mobile.png') 1x,
-      url('images/background-tablet.png') 1.5x,
-      url('images/background-desktop.png') 2x
+      url('/images/background-mobile.png') 1x,
+      url('/images/background-tablet.png') 1.5x,
+      url('/images/background-desktop.png') 2x
     );
 
   /* Ajusta el tamaño */
